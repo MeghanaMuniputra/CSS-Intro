@@ -1,0 +1,31 @@
+<style>
+        #name{
+            color:fuchsia; 
+        }
+        .a{
+            color:darkcyan;
+            background-color:beige;
+        }
+        .b{
+            color:darkcyan;
+            background-color:darkmagenta;
+        }
+        .c{
+            color:darkblue;
+            background-color:aqua;
+        }
+        .d{
+            color:forestgreen;
+            background-color:darksalmon;
+        }
+        .e{
+            color:gold;
+            background-color:darkslateblue;
+        }
+        .f{
+            color:blueviolet;
+            background-color:greenyellow;
+        }
+       
+    </style>
+
